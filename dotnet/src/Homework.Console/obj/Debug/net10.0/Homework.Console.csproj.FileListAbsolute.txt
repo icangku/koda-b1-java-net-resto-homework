@@ -1,0 +1,14 @@
+/home/alvin/Desktop/koda/homework/koda-b1-java-homework/alvin-taburai/dotnet/src/Homework.Console/bin/Debug/net10.0/Homework.Console
+/home/alvin/Desktop/koda/homework/koda-b1-java-homework/alvin-taburai/dotnet/src/Homework.Console/bin/Debug/net10.0/Homework.Console.deps.json
+/home/alvin/Desktop/koda/homework/koda-b1-java-homework/alvin-taburai/dotnet/src/Homework.Console/bin/Debug/net10.0/Homework.Console.runtimeconfig.json
+/home/alvin/Desktop/koda/homework/koda-b1-java-homework/alvin-taburai/dotnet/src/Homework.Console/bin/Debug/net10.0/Homework.Console.dll
+/home/alvin/Desktop/koda/homework/koda-b1-java-homework/alvin-taburai/dotnet/src/Homework.Console/bin/Debug/net10.0/Homework.Console.pdb
+/home/alvin/Desktop/koda/homework/koda-b1-java-homework/alvin-taburai/dotnet/src/Homework.Console/obj/Debug/net10.0/Homework.Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/alvin/Desktop/koda/homework/koda-b1-java-homework/alvin-taburai/dotnet/src/Homework.Console/obj/Debug/net10.0/Homework.Console.AssemblyInfoInputs.cache
+/home/alvin/Desktop/koda/homework/koda-b1-java-homework/alvin-taburai/dotnet/src/Homework.Console/obj/Debug/net10.0/Homework.Console.AssemblyInfo.cs
+/home/alvin/Desktop/koda/homework/koda-b1-java-homework/alvin-taburai/dotnet/src/Homework.Console/obj/Debug/net10.0/Homework.Console.csproj.CoreCompileInputs.cache
+/home/alvin/Desktop/koda/homework/koda-b1-java-homework/alvin-taburai/dotnet/src/Homework.Console/obj/Debug/net10.0/Homework.Console.dll
+/home/alvin/Desktop/koda/homework/koda-b1-java-homework/alvin-taburai/dotnet/src/Homework.Console/obj/Debug/net10.0/refint/Homework.Console.dll
+/home/alvin/Desktop/koda/homework/koda-b1-java-homework/alvin-taburai/dotnet/src/Homework.Console/obj/Debug/net10.0/Homework.Console.pdb
+/home/alvin/Desktop/koda/homework/koda-b1-java-homework/alvin-taburai/dotnet/src/Homework.Console/obj/Debug/net10.0/Homework.Console.genruntimeconfig.cache
+/home/alvin/Desktop/koda/homework/koda-b1-java-homework/alvin-taburai/dotnet/src/Homework.Console/obj/Debug/net10.0/ref/Homework.Console.dll
